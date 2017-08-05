@@ -1,5 +1,5 @@
-# Adopt A Pet Alexa Skill
-An Amazon Alexa skill for adopting pets.
+# Suns News Feed Alexa Skill
+An Amazon Alexa skill for adding Suns News to a news feed.
 
 ## Setup
 Setup of Alexa skill is required, please refer to Amazon's documentation.
