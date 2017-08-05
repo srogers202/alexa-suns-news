@@ -1,0 +1,7 @@
+dogs
+cats
+small animals
+birds
+horses
+reptiles
+barnyard
